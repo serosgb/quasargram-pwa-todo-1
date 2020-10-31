@@ -13,5 +13,6 @@ npm run dev
 ``
 
 Notice: 
+* Add the serviceAccountKey.json in the root path of this project. (Firebase)
 * Server is listening in the por 3080
 * You can use the [REST Client plugin for VS Code](https://marketplace.visualstudio.com/items?itemName=humao.rest-client) to test the endpoints located in the folder test-endpoints.
