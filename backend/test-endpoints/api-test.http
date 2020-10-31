@@ -1,0 +1,6 @@
+
+GET http://localhost:3080/api/todos HTTP/1.1
+
+###
+
+POST http://localhost:3080/api/todos?id=1593503990240&title=Shower HTTP/1.1
